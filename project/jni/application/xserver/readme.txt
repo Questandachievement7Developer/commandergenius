@@ -13,7 +13,7 @@ Install Android NDK r20 and Android SDK with Android 10.0 framework, they must b
 
 Download SDL repo, select xserver project, and build it:
 
-git clone git@github.com:Questandachievement7Developer/commandergenius.git sdl-android
+git clone https://Questandachievement7Developer/commandergenius.git sdl-android
 cd sdl-android
 git submodule update --init --recursive
 ./build.sh xserver
